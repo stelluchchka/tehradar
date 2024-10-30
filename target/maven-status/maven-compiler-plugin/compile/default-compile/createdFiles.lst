@@ -1,0 +1,14 @@
+com/stelluchchka/t1/config/MySpringMVCDispatcherServletIntitializer.class
+com/stelluchchka/t1/models/Poll.class
+com/stelluchchka/t1/config/JacksonConfig.class
+com/stelluchchka/t1/models/Role.class
+com/stelluchchka/t1/models/Section.class
+com/stelluchchka/t1/models/Technology.class
+com/stelluchchka/t1/models/Category.class
+com/stelluchchka/t1/controllers/PollController.class
+com/stelluchchka/t1/models/ResponseWrapper.class
+com/stelluchchka/t1/config/SpringConfig.class
+com/stelluchchka/t1/models/Status.class
+com/stelluchchka/t1/dao/PollDAO.class
+com/stelluchchka/t1/models/User.class
+com/stelluchchka/t1/models/Ring.class
